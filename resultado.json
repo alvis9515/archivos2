@@ -1,0 +1,18 @@
+[
+    {
+        "status": 200,
+        "url": "http://google.com"
+    },
+    {
+        "status": 200,
+        "url": "http://yahoo.com"
+    },
+    {
+        "status": 200,
+        "url": "http://youtube.com"
+    },
+    {
+        "status": 503,
+        "url": "http://httpstat.us/503"
+    }
+]
